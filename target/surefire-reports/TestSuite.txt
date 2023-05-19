@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 1.87 s <<< FAILURE! - in TestSuite
+launch(com.test.TC1_form)  Time elapsed: 1.48 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/interactions/HasTouchScreen
+	at com.test.TC1_form.launch(TC1_form.java:24)
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.interactions.HasTouchScreen
+	at com.test.TC1_form.launch(TC1_form.java:24)
+

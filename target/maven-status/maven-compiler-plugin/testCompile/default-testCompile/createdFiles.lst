@@ -1,0 +1,7 @@
+com\pages\HomePage.class
+com\test\TC1_form.class
+com\utils\ConfigFileReader.class
+com\managers\PageObjectManager.class
+Test.class
+com\test\TC2_fillForm.class
+com\utils\BrowserFactory.class
